@@ -12,3 +12,6 @@ The code consists of the following
       SHCT training on prefetches
       Prefetch updates
 3. Some basic improvements to enhance the IPC.
+
+
+The project won the fourth place in the CRC course [competition](http://faculty.cse.tamu.edu/djimenez/614/winner2.html) at TAMU Fall '17.
