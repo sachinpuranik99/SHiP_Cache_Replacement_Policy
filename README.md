@@ -1,6 +1,6 @@
 # SHiP++: Enhancing Signature-Based Hit Predictor for Improved Cache Performance
 
-This repository contains a C++ implementation of SHiP++ [paper](https://web.archive.org/web/20170908221217/http://crc2.ece.tamu.edu/submaterial/Ship++.pdf).
+This repository contains a C++ implementation of SHiP++ [paper](https://pdfs.semanticscholar.org/d1fb/26e6fc2c71d984bb1213af1d5b2a57f04b6f.pdf).
 
 The code consists of the following
 1. SHiP implementation
