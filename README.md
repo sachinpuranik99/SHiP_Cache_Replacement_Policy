@@ -5,10 +5,10 @@ This repository contains a C++ implementation of SHiP++ [paper](https://pdfs.sem
 The code consists of the following
 1. SHiP implementation
 2. SHiP++ Improvements: 
-      Insertion position
-      SHCT training policy
-      Writeback updates
-      SHCT training on prefetches
+      Insertion position,
+      SHCT training policy,
+      Writeback updates,
+      SHCT training on prefetches and
       Prefetch updates
 3. Some basic improvements to enhance the IPC.
 
